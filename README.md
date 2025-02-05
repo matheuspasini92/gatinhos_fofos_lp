@@ -6,4 +6,4 @@
 ### Added
 
 - Criação de landing page de exercício de fixação do módulo 5 do curso prodissão desenvolvedor fullstack java da EBAC
-- Acesse em: https://gatinhos-fofos-l99hmvyni-matheus-pasinis-projects.vercel.app/
+- Acesse em: [gatinhos-fofos-lp-ebac-mod5.vercel.app](https://gatinhos-fofos-lp-ebac-mod5.vercel.app/)
